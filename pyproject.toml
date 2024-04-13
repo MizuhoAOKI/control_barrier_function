@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "control_barrier_function"
+version = "0.1.0"
+description = ""
+authors = ["MizuhoAOKI <mizuhoaoki1998@gmail.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.25.2"
+matplotlib = "^3.7.2"
+notebook = "^7.0.2"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
