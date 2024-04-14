@@ -3,7 +3,8 @@
 
 # Control Barrier Function Example
 
-https://github.com/MizuhoAOKI/control_barrier_function/assets/63337525/e6407a02-2b1f-4b04-bbc4-0cb408916f30
+<!-- https://github.com/MizuhoAOKI/control_barrier_function/assets/63337525/e6407a02-2b1f-4b04-bbc4-0cb408916f30 -->
+https://github.com/MizuhoAOKI/control_barrier_function/assets/63337525/36dc97ea-8573-433f-976e-a3bcc91b7118
 
 ## Dependency
 
