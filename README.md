@@ -53,9 +53,8 @@ poetry install
 - Run simulation
     ```sh
     cd control_barrier_function
-    poetry run python scripts/cbf_vel_control.ipynb
+    poetry run jupyter notebook notebooks/cbf_vel_control.ipynb
     ```
-
 
 ## References
 
