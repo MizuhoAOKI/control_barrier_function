@@ -6,7 +6,8 @@
 <!-- https://github.com/MizuhoAOKI/control_barrier_function/assets/63337525/e6407a02-2b1f-4b04-bbc4-0cb408916f30 -->
 https://github.com/MizuhoAOKI/control_barrier_function/assets/63337525/36dc97ea-8573-433f-976e-a3bcc91b7118
 
-The algorithm was successfully implemented in a real car.
+The algorithm was successfully implemented in a real car. 
+(Once the obstacle is removed, the vehicle automatically restart moving forward.)
 
 https://github.com/MizuhoAOKI/control_barrier_function/assets/63337525/d735f495-5054-4ff7-9b38-d011a2ca2579
 
